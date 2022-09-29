@@ -1,0 +1,10 @@
+ipykernel
+black
+black[jupyter]
+numpy
+scipy
+matplotlib
+seaborn
+tqdm
+ipywidgets
+GPUtil
